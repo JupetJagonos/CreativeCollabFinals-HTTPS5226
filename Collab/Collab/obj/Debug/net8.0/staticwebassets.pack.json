@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Collab.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Collab.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Collab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Collab.props",
+      "PackagePath": "build\\Collab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Collab.props",
+      "PackagePath": "buildMultiTargeting\\Collab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Collab.props",
+      "PackagePath": "buildTransitive\\Collab.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

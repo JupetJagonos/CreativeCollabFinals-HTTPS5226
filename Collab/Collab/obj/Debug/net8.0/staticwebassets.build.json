@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "aloD4xeQITB7B0Ux5Fn4Ipzsc183AGPLo5iWc3QWT7o=",
+  "Source": "Collab",
+  "BasePath": "_content/Collab",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Collab\\wwwroot",
+      "Source": "Collab",
+      "ContentRoot": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\wwwroot\\",
+      "BasePath": "_content/Collab",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Collab.styles.css",
+      "SourceId": "Collab",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Collab",
+      "RelativePath": "Collab.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Collab.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Collab.bundle.scp.css",
+      "SourceId": "Collab",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Collab",
+      "RelativePath": "Collab.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Collab.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\wwwroot\\css\\style.css",
+      "SourceId": "Collab",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jupet Jagonos\\Collab2\\Collab\\Collab\\wwwroot\\",
+      "BasePath": "_content/Collab",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

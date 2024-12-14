@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Collab
+build_property.RootNamespace = Collab
+build_property.ProjectDir = C:\Users\Jupet Jagonos\Desktop\Collab2\Collab\Collab\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jupet Jagonos\Desktop\Collab2\Collab\Collab
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Groups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Groups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Groups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Groups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Groups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Users/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZUNhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZUNhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZUNhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZUNhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZUNhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeVideos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVZpZGVvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeVideos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVZpZGVvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeVideos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVZpZGVvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeVideos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVZpZGVvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/YouTubeVideos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVZpZGVvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jupet Jagonos/Desktop/Collab2/Collab/Collab/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lnd9zi5604
